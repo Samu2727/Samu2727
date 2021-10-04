@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Samu2727
+- 👀 I’m interested in PowerShell, Music and Volleyball
+- 🌱 I’m currently learning System Engineering
+- 💞️ I’m looking to collaborate on PowerShell projects. Just ask and I will help.
+- 📫 You can send me an e-mail to samuel@samu2727.anonaddy.com
